@@ -1,8 +1,8 @@
-global.bankname = "OPAY"
+global.bankname = "MONIEPOINT"
 
-global.banknumber = "5522887756"
+global.banknumber = "5597969642"
 
-global.bankowner = "PATRON"
+global.bankowner = "PETER.............."
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
